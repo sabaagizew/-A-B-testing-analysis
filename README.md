@@ -1,3 +1,4 @@
+# A-B-testing-analysis
 
 pharmaceutical-sales-prediction
 
@@ -9,10 +10,6 @@ experience as well as their personal judgement to forecast sales. The data team 
 promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting 
 the sales across the various stores. The task is to build and serve an end-to-end product that delivers 
 this prediction to analysts in the finance team.
-
-
-# A-B-testing-analysis
-
 A/B Testing 
 
 A/B testing (also known as bucket testing or split-run testing) is a user experience research methodology. A/B tests consist of 
