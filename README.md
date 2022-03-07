@@ -1,4 +1,4 @@
-# A-B-testing-analysis
+# A-B-Testing-Analysis
 
 pharmaceutical-sales-prediction
 
